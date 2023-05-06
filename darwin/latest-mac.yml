@@ -1,0 +1,11 @@
+version: 1.0.7
+files:
+  - url: ceway-1.0.7-mac.zip
+    sha512: 0LkUtqhEOyvl3Zont9gd4RFxRCqI96RG1DtYFG3SyfAdKluTlHXfjkMdenfsREZm8btLLRUCKYIifeNqW65vNA==
+    size: 100126394
+  - url: ceway-1.0.7.dmg
+    sha512: 2FaqCetP5QOhDSEcQSsFeh0FRDAB9JwpoARuqvpq2x2BxrtdqS0mfR0y1CxbCsgZdMzPUoyUvUYkxFv6Ngf3mw==
+    size: 103970961
+path: ceway-1.0.7-mac.zip
+sha512: 0LkUtqhEOyvl3Zont9gd4RFxRCqI96RG1DtYFG3SyfAdKluTlHXfjkMdenfsREZm8btLLRUCKYIifeNqW65vNA==
+releaseDate: '2023-05-05T07:19:33.033Z'
