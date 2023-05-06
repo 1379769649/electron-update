@@ -1,11 +1,11 @@
-version: 1.0.7
+version: 1.0.8
 files:
-  - url: ceway-1.0.7-mac.zip
-    sha512: 0LkUtqhEOyvl3Zont9gd4RFxRCqI96RG1DtYFG3SyfAdKluTlHXfjkMdenfsREZm8btLLRUCKYIifeNqW65vNA==
-    size: 100126394
-  - url: ceway-1.0.7.dmg
-    sha512: 2FaqCetP5QOhDSEcQSsFeh0FRDAB9JwpoARuqvpq2x2BxrtdqS0mfR0y1CxbCsgZdMzPUoyUvUYkxFv6Ngf3mw==
-    size: 103970961
-path: ceway-1.0.7-mac.zip
-sha512: 0LkUtqhEOyvl3Zont9gd4RFxRCqI96RG1DtYFG3SyfAdKluTlHXfjkMdenfsREZm8btLLRUCKYIifeNqW65vNA==
-releaseDate: '2023-05-05T07:19:33.033Z'
+  - url: ceway-1.0.8-mac.zip
+    sha512: dA1vjXeXZIdI4Dh4w4X7DeqA0fmdhJSd+P5a8LhDmyfPsAgvE1aEe9dJJmmir5zFjZr7pOTG3jgdElb9f2vu0g==
+    size: 100128156
+  - url: ceway-1.0.8.dmg
+    sha512: g5051HeGXjaJj6+ON3im5HenNBJbQOd7zjBarVdkKL64W1ijWCEoNCEFpWt7NDoeXwiYRrlEKpLKNJ7jzhjbEQ==
+    size: 103971062
+path: ceway-1.0.8-mac.zip
+sha512: dA1vjXeXZIdI4Dh4w4X7DeqA0fmdhJSd+P5a8LhDmyfPsAgvE1aEe9dJJmmir5zFjZr7pOTG3jgdElb9f2vu0g==
+releaseDate: '2023-05-06T08:29:29.379Z'
